@@ -1,0 +1,9 @@
+DIGEST 47a3cc922bb1dbf1b265971d5dc2ec4a
+Fprove_zero
+prf 8:18 <> zero_plus_n
+R33:35 Coq.Init.Datatypes <> nat ind
+binder 29:29 <> n:1
+R43:45 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R39:41 Coq.Init.Peano <> ::nat_scope:x_'+'_x not
+R42:42 prove_zero <> n:1 var
+R46:46 prove_zero <> n:1 var
