@@ -1,0 +1,18 @@
+DIGEST d3b1cfe7484984d3ed5b5c099d5c66bb
+Frecursion
+R15:19 Coq.Arith.Arith <> <> lib
+def 32:34 <> ack
+R43:45 Coq.Init.Datatypes <> nat ind
+binder 37:37 <> m:1
+binder 39:39 <> n:2
+R50:52 Coq.Init.Datatypes <> nat ind
+R68:68 recursion <> n:2 var
+R65:65 recursion <> m:1 var
+R88:90 Coq.Init.Peano <> ::nat_scope:x_'+'_x not
+R87:87 recursion <> n:2 var
+R97:97 Coq.Init.Datatypes <> S constr
+R108:110 recursion <> ack:3 def
+R121:121 Coq.Init.Datatypes <> S constr
+R127:127 Coq.Init.Datatypes <> S constr
+R135:137 recursion <> ack:3 def
+R143:145 recursion <> ack:3 def
