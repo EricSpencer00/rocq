@@ -1,2 +1,7 @@
 twoSquare
 two-square-theorem/twoSquare
+*.aux
+*.vok
+*.vos
+*.glob
+*.vo
