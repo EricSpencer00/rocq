@@ -1,4 +1,0 @@
-DIGEST a5187c86d3ff39b305fc0d956000b4b7
-Fdemo
-R15:24 prove_zero <> <> lib
-R34:44 prove_zero <> zero_plus_n thm
